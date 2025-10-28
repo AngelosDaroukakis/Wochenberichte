@@ -162,10 +162,10 @@ header {
     background-size: cover;
     border-radius: 50%;
     background-position: center top;
-    border-top-left-radius: 28%;
-	border-top-right-radius: 28%;
-	border-bottom-left-radius: 28%;
-	border-bottom-right-radius: 28%;
+    border-top-left-radius: 30%;
+	border-top-right-radius: 30%;
+	border-bottom-left-radius: 30%;
+	border-bottom-right-radius: 30%;
 }
 
 /* Textinhalt Kopfzeile */
